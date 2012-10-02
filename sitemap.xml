@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://xuecheng.github.com/blog/2012/10/02/test/</loc>
+        <lastmod>2012-10-02T16:57:37+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://xuecheng.github.com/blog/2012/10/02/test02/</loc>
+        <lastmod>2012-10-02T16:51:14+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://xuecheng.github.com/blog/2012/10/02/test03/</loc>
+        <lastmod>2012-10-02T16:21:33+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://xuecheng.github.com/blog/2012/10/02/test04/</loc>
+        <lastmod>2012-10-02T16:42:45+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://xuecheng.github.com/about/</loc>
+        <lastmod>2012-10-02T03:16:00+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://xuecheng.github.com/blog/archives/</loc>
+        <lastmod>2012-10-02T16:57:37+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://xuecheng.github.com/</loc>
+        <lastmod>2012-10-02T16:57:37+08:00</lastmod>
+    </url>
+</urlset>
