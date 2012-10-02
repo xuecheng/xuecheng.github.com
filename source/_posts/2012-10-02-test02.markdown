@@ -3,7 +3,17 @@ layout: post
 title: "test02"
 date: 2012-10-02 01:39
 comments: true
-categories: [Ruby&Rails,Octopress]
-categories: 
+tags: [tips, octopress]
+keywords: seo, octopress
+categories: [MacOSX,iOS]
 ---
-test2
+<!-- more -->
+
+##testsfsadfhajsdfjsadfjsadjfh萨hdfj啊sgdjfh干啊sjhdg发生过渡房gsjhdfgjsahgdfjgsadfgsahdgfjhsagdfhsgdfj萨gdh法 testsfsadfhajsdfjsadfjsadjfh萨hdfj啊sgdjfh干啊sjhdg发生过渡房gsjhdfgjsahgdfjgsadfgsahdgfjhsagdfhsgdfj萨gdh法 
+testsfsadfhajsdfjsadfjsadjfh萨hdfj啊sgdjfh干啊sjhdg发生过渡房gsjhdfgjsahgdfjgsadfgsahdgfjhsagdfhsgdfj萨gdh法 
+
+##testsfsadfhajsdfjsadfjsadjfh萨hdfj啊sgdjfh干啊sjhdg发生过渡房gsjhdfgjsahgdfjgsadfgsahdgfjhsagdfhsgdfj萨gdh法 
+testsfsadfhajsdfjsadfjsadjfh萨hdfj啊sgdjfh干啊sjhdg发生过渡房gsjhdfgjsahgdfjgsadfgsahdgfjhsagdfhsgdfj萨gdh法 
+##testsfsadfhajsdfjsadfjsadjfh萨hdfj啊sgdjfh干啊sjhdg发生过渡房gsjhdfgjsahgdfjgsadfgsahdgfjhsagdfhsgdfj萨gdh法 
+testsfsadfhajsdfjsadfjsadjfh萨hdfj啊sgdjfh干啊sjhdg发生过渡房gsjhdfgjsahgdfjgsadfgsahdgfjhsagdfhsgdfj萨gdh法 
+testsfsadfhajsdfjsadfjsadjfh萨hdfj啊sgdjfh干啊sjhdg发生过渡房gsjhdfgjsahgdfjgsadfgsahdgfjhsagdfhsgdfj萨gdh法 
