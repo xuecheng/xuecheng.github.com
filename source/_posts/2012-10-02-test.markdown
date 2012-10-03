@@ -4,7 +4,7 @@ title: "test"
 date: 2012-10-02 01:23
 comments: true
 keywords: seo, octopress
-categories: [MacOSX,iOS,iPhoneqqqqqq]
+categories: [MacOSX开发笔记,iOS开发笔记,iPhone]
 tags: [tips, octopress]
 ---
 
