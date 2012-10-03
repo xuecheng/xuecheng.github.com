@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[博文分类:MacOSX开发笔记 | ACHENG.me]]></title>
+  <link href="http://xuecheng.github.com/blog/categories/macosx%E5%BC%80%E5%8F%91%E7%AC%94%E8%AE%B0/atom.xml" rel="self"/>
+  <link href="http://xuecheng.github.com/"/>
+  <updated>2012-10-04T02:47:39+08:00</updated>
+  <id>http://xuecheng.github.com/</id>
+  <author>
+    <name><![CDATA[XueCheng Huang]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[test]]></title>
+    <link href="http://xuecheng.github.com/blog/2012/10/02/test/"/>
+    <updated>2012-10-02T01:23:00+08:00</updated>
+    <id>http://xuecheng.github.com/blog/2012/10/02/test</id>
+    <content type="html"><![CDATA[<h2>testsfsadfhajsdfjsadfjsadjfh萨hdfj啊sgdjfh干啊sjhdg发生过渡房gsjhdfgjsahgdfjgsadfgsahdgfjhsagdfhsgdfj萨gdh法 testsfsadfhajsdfjsadfjsadjfh萨hdfj啊sgdjfh干啊sjhdg发生过渡房gsjhdfgjsahgdfjgsadfgsahdgfjhsagdfhsgdfj萨gdh法</h2>
+
+<!-- more -->
+
+
+<p>testsfsadfhajsdfjsadfjsadjfh萨hdfj啊sgdjfh干啊sjhdg发生过渡房gsjhdfgjsahgdfjgsadfgsahdgfjhsagdfhsgdfj萨gdh法</p>
+
+<h2>testsfsadfhajsdfjsadfjsadjfh萨hdfj啊sgdjfh干啊sjhdg发生过渡房gsjhdfgjsahgdfjgsadfgsahdgfjhsagdfhsgdfj萨gdh法</h2>
+
+<p>testsfsadfhajsdfjsadfjsadjfh萨hdfj啊sgdjfh干啊sjhdg发生过渡房gsjhdfgjsahgdfjgsadfgsahdgfjhsagdfhsgdfj萨gdh法</p>
+
+<h2>testsfsadfhajsdfjsadfjsadjfh萨hdfj啊sgdjfh干啊sjhdg发生过渡房gsjhdfgjsahgdfjgsadfgsahdgfjhsagdfhsgdfj萨gdh法</h2>
+
+<p>testsfsadfhajsdfjsadfjsadjfh萨hdfj啊sgdjfh干啊sjhdg发生过渡房gsjhdfgjsahgdfjgsadfgsahdgfjhsagdfhsgdfj萨gdh法
+testsfsadfhajsdfjsadfjsadjfh萨hdfj啊sgdjfh干啊sjhdg发生过渡房gsjhdfgjsahgdfjgsadfgsahdgfjhsagdfhsgdfj萨gdh法</p>
+]]></content>
+  </entry>
+  
+</feed>
