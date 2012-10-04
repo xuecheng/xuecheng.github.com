@@ -1,8 +1,15 @@
 ---
 layout: page
-title: "开源代码"
+title: 开源代码
 date: 2012-10-04 03:50
 comments: true
 sharing: true
 footer: true
 ---
+####2012/10/04
+##[iOS 获取文件大小](https://github.com/xuecheng/ios_util)
+Util类的代码片段摘自网络，这里只是做归纳。版权归原作者所有。
+
+调用方式：
+![mac icon](/code/images/ios-util-1.png)
+效果：![mac icon](/code/images/ios-util-2.png)
