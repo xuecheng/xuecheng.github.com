@@ -4,7 +4,7 @@
   <title><![CDATA[ACHENG.me]]></title>
   <link href="http://xuecheng.github.com/atom.xml" rel="self"/>
   <link href="http://xuecheng.github.com/"/>
-  <updated>2012-10-05T01:41:15+08:00</updated>
+  <updated>2012-10-05T02:33:11+08:00</updated>
   <id>http://xuecheng.github.com/</id>
   <author>
     <name><![CDATA[XueCheng Huang]]></name>
@@ -18,7 +18,14 @@
     <link href="http://xuecheng.github.com/blog/2012/10/02/test04/"/>
     <updated>2012-10-02T16:41:00+08:00</updated>
     <id>http://xuecheng.github.com/blog/2012/10/02/test04</id>
-    <content type="html"><![CDATA[<p>test</p>
+    <content type="html"><![CDATA[<p>test<p class='post-footer'></p>
+
+<pre><code>    original link:
+    &lt;a href='http://xuecheng.github.com/blog/2012/10/02/test04/'&gt;http://xuecheng.github.com/blog/2012/10/02/test04/&lt;/a&gt;&lt;br/&gt;
+    &amp;nbsp;written by &lt;a href='http://xuecheng.github.com'&gt;XueCheng Huang&lt;/a&gt;
+    &amp;nbsp;posted at &lt;a href='http://xuecheng.github.com'&gt;http://xuecheng.github.com&lt;/a&gt;
+    &lt;/p&gt;
+</code></pre>
 ]]></content>
   </entry>
   
@@ -44,6 +51,14 @@
 
 <p>testsfsadfhajsdfjsadfjsadjfh萨hdfj啊sgdjfh干啊sjhdg发生过渡房gsjhdfgjsahgdfjgsadfgsahdgfjhsagdfhsgdfj萨gdh法
 testsfsadfhajsdfjsadfjsadjfh萨hdfj啊sgdjfh干啊sjhdg发生过渡房gsjhdfgjsahgdfjgsadfgsahdgfjhsagdfhsgdfj萨gdh法</p>
+
+<p class='post-footer'>
+        original link:
+        <a href='http://xuecheng.github.com/blog/2012/10/02/test03/'>http://xuecheng.github.com/blog/2012/10/02/test03/</a><br/>
+        &nbsp;written by <a href='http://xuecheng.github.com'>XueCheng Huang</a>
+        &nbsp;posted at <a href='http://xuecheng.github.com'>http://xuecheng.github.com</a>
+        </p>
+
 ]]></content>
   </entry>
   
@@ -67,6 +82,14 @@ testsfsadfhajsdfjsadfjsadjfh萨hdfj啊sgdjfh干啊sjhdg发生过渡房gsjhdfgjsa
 
 <p>testsfsadfhajsdfjsadfjsadjfh萨hdfj啊sgdjfh干啊sjhdg发生过渡房gsjhdfgjsahgdfjgsadfgsahdgfjhsagdfhsgdfj萨gdh法
 testsfsadfhajsdfjsadfjsadjfh萨hdfj啊sgdjfh干啊sjhdg发生过渡房gsjhdfgjsahgdfjgsadfgsahdgfjhsagdfhsgdfj萨gdh法</p>
+
+<p class='post-footer'>
+        original link:
+        <a href='http://xuecheng.github.com/blog/2012/10/02/test02/'>http://xuecheng.github.com/blog/2012/10/02/test02/</a><br/>
+        &nbsp;written by <a href='http://xuecheng.github.com'>XueCheng Huang</a>
+        &nbsp;posted at <a href='http://xuecheng.github.com'>http://xuecheng.github.com</a>
+        </p>
+
 ]]></content>
   </entry>
   
@@ -90,6 +113,14 @@ testsfsadfhajsdfjsadfjsadjfh萨hdfj啊sgdjfh干啊sjhdg发生过渡房gsjhdfgjsa
 
 <p>testsfsadfhajsdfjsadfjsadjfh萨hdfj啊sgdjfh干啊sjhdg发生过渡房gsjhdfgjsahgdfjgsadfgsahdgfjhsagdfhsgdfj萨gdh法
 testsfsadfhajsdfjsadfjsadjfh萨hdfj啊sgdjfh干啊sjhdg发生过渡房gsjhdfgjsahgdfjgsadfgsahdgfjhsagdfhsgdfj萨gdh法</p>
+
+<p class='post-footer'>
+        original link:
+        <a href='http://xuecheng.github.com/blog/2012/10/02/test/'>http://xuecheng.github.com/blog/2012/10/02/test/</a><br/>
+        &nbsp;written by <a href='http://xuecheng.github.com'>XueCheng Huang</a>
+        &nbsp;posted at <a href='http://xuecheng.github.com'>http://xuecheng.github.com</a>
+        </p>
+
 ]]></content>
   </entry>
   
