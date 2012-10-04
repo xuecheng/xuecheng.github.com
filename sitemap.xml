@@ -17,27 +17,27 @@
         <lastmod>2012-10-02T16:42:45+08:00</lastmod>
     </url>
     <url>
-        <loc>http://xuecheng.github.com/about/</loc>
+        <loc>http://xuecheng.github.com/blog/about/</loc>
         <lastmod>2012-10-02T03:16:00+08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://xuecheng.github.com/archives/tags.html</loc>
-        <lastmod>2012-10-04T03:59:28+08:00</lastmod>
     </url>
     <url>
         <loc>http://xuecheng.github.com/blog/archives/</loc>
         <lastmod>2012-10-04T17:43:10+08:00</lastmod>
     </url>
     <url>
-        <loc>http://xuecheng.github.com/code/</loc>
+        <loc>http://xuecheng.github.com/blog/code/</loc>
         <lastmod>2012-10-04T17:38:33+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://xuecheng.github.com/blog/tags/</loc>
+        <lastmod>2012-10-04T22:46:53+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://xuecheng.github.com/blog/tags/tags.html</loc>
+        <lastmod>2012-10-04T03:59:28+08:00</lastmod>
     </url>
     <url>
         <loc>http://xuecheng.github.com/</loc>
         <lastmod>2012-10-04T17:43:10+08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://xuecheng.github.com/tags/</loc>
-        <lastmod>2012-10-04T03:44:39+08:00</lastmod>
     </url>
 </urlset>
