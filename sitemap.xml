@@ -1,8 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://acheng.me/blog/2012/10/02/test03/</loc>
+        <lastmod>2012-10-02T16:21:33+08:00</lastmod>
+    </url>
+    <url>
         <loc>http://acheng.me/blog/2012/10/09/nstableviewxing-de-tuo-zhuai/</loc>
-        <lastmod>2012-10-09T21:20:54+08:00</lastmod>
+        <lastmod>2012-10-09T21:22:52+08:00</lastmod>
     </url>
     <url>
         <loc>http://acheng.me/blog/about/</loc>
@@ -10,7 +14,7 @@
     </url>
     <url>
         <loc>http://acheng.me/blog/archives/</loc>
-        <lastmod>2012-10-09T21:20:54+08:00</lastmod>
+        <lastmod>2012-10-09T21:22:52+08:00</lastmod>
     </url>
     <url>
         <loc>http://acheng.me/blog/code/</loc>
@@ -26,6 +30,6 @@
     </url>
     <url>
         <loc>http://acheng.me/</loc>
-        <lastmod>2012-10-09T21:20:54+08:00</lastmod>
+        <lastmod>2012-10-09T21:22:52+08:00</lastmod>
     </url>
 </urlset>
