@@ -4,7 +4,7 @@
   <title><![CDATA[Cocoa(Mac OS X)开发区]]></title>
   <link href="http://xuecheng.github.com/atom.xml" rel="self"/>
   <link href="http://xuecheng.github.com/"/>
-  <updated>2012-10-09T19:54:34+08:00</updated>
+  <updated>2012-10-09T19:57:16+08:00</updated>
   <id>http://xuecheng.github.com/</id>
   <author>
     <name><![CDATA[XueCheng Huang]]></name>
@@ -12,108 +12,5 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[test04]]></title>
-    <link href="http://xuecheng.github.com/blog/2012/10/02/test04/"/>
-    <updated>2012-10-02T16:41:00+08:00</updated>
-    <id>http://xuecheng.github.com/blog/2012/10/02/test04</id>
-    <content type="html"><![CDATA[<p>test
-sdf
-a
-sdf
-asdf
-as
-df
-sad
-fsa
-df
-asd
-f
-sdfa</p>
-
-<p>sdf dkjghsdkjghkdsgf
-dfg
-ds
-g</p>
-
-<p>dfg
-sdf
-g</p>
-
-<p>fdgsd</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[test03]]></title>
-    <link href="http://xuecheng.github.com/blog/2012/10/02/test03/"/>
-    <updated>2012-10-02T11:46:00+08:00</updated>
-    <id>http://xuecheng.github.com/blog/2012/10/02/test03</id>
-    <content type="html"><![CDATA[<!-- more -->
-
-
-<p>test</p>
-
-<h2>testsfsadfhajsdfjsadfjsadjfh萨hdfj啊sgdjfh干啊sjhdg发生过渡房gsjhdfgjsahgdfjgsadfgsahdgfjhsagdfhsgdfj萨gdh法 testsfsadfhajsdfjsadfjsadjfh萨hdfj啊sgdjfh干啊sjhdg发生过渡房gsjhdfgjsahgdfjgsadfgsahdgfjhsagdfhsgdfj萨gdh法</h2>
-
-<p>testsfsadfhajsdfjsadfjsadjfh萨hdfj啊sgdjfh干啊sjhdg发生过渡房gsjhdfgjsahgdfjgsadfgsahdgfjhsagdfhsgdfj萨gdh法</p>
-
-<h2>testsfsadfhajsdfjsadfjsadjfh萨hdfj啊sgdjfh干啊sjhdg发生过渡房gsjhdfgjsahgdfjgsadfgsahdgfjhsagdfhsgdfj萨gdh法</h2>
-
-<p>testsfsadfhajsdfjsadfjsadjfh萨hdfj啊sgdjfh干啊sjhdg发生过渡房gsjhdfgjsahgdfjgsadfgsahdgfjhsagdfhsgdfj萨gdh法</p>
-
-<h2>testsfsadfhajsdfjsadfjsadjfh萨hdfj啊sgdjfh干啊sjhdg发生过渡房gsjhdfgjsahgdfjgsadfgsahdgfjhsagdfhsgdfj萨gdh法</h2>
-
-<p>testsfsadfhajsdfjsadfjsadjfh萨hdfj啊sgdjfh干啊sjhdg发生过渡房gsjhdfgjsahgdfjgsadfgsahdgfjhsagdfhsgdfj萨gdh法
-testsfsadfhajsdfjsadfjsadjfh萨hdfj啊sgdjfh干啊sjhdg发生过渡房gsjhdfgjsahgdfjgsadfgsahdgfjhsagdfhsgdfj萨gdh法</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[test02]]></title>
-    <link href="http://xuecheng.github.com/blog/2012/10/02/test02/"/>
-    <updated>2012-10-02T01:39:00+08:00</updated>
-    <id>http://xuecheng.github.com/blog/2012/10/02/test02</id>
-    <content type="html"><![CDATA[<h2>testsfsadfhajsdfjsadfjsadjfh萨hdfj啊sgdjfh干啊sjhdg发生过渡房gsjhdfgjsahgdfjgsadfgsahdgfjhsagdfhsgdfj萨gdh法 testsfsadfhajsdfjsadfjsadjfh萨hdfj啊sgdjfh干啊sjhdg发生过渡房gsjhdfgjsahgdfjgsadfgsahdgfjhsagdfhsgdfj萨gdh法</h2>
-
-<p>testsfsadfhajsdfjsadfjsadjfh萨hdfj啊sgdjfh干啊sjhdg发生过渡房gsjhdfgjsahgdfjgsadfgsahdgfjhsagdfhsgdfj萨gdh法</p>
-
-<!-- more -->
-
-
-<h2>testsfsadfhajsdfjsadfjsadjfh萨hdfj啊sgdjfh干啊sjhdg发生过渡房gsjhdfgjsahgdfjgsadfgsahdgfjhsagdfhsgdfj萨gdh法</h2>
-
-<p>testsfsadfhajsdfjsadfjsadjfh萨hdfj啊sgdjfh干啊sjhdg发生过渡房gsjhdfgjsahgdfjgsadfgsahdgfjhsagdfhsgdfj萨gdh法</p>
-
-<h2>testsfsadfhajsdfjsadfjsadjfh萨hdfj啊sgdjfh干啊sjhdg发生过渡房gsjhdfgjsahgdfjgsadfgsahdgfjhsagdfhsgdfj萨gdh法</h2>
-
-<p>testsfsadfhajsdfjsadfjsadjfh萨hdfj啊sgdjfh干啊sjhdg发生过渡房gsjhdfgjsahgdfjgsadfgsahdgfjhsagdfhsgdfj萨gdh法
-testsfsadfhajsdfjsadfjsadjfh萨hdfj啊sgdjfh干啊sjhdg发生过渡房gsjhdfgjsahgdfjgsadfgsahdgfjhsagdfhsgdfj萨gdh法</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[test]]></title>
-    <link href="http://xuecheng.github.com/blog/2012/10/02/test/"/>
-    <updated>2012-10-02T01:23:00+08:00</updated>
-    <id>http://xuecheng.github.com/blog/2012/10/02/test</id>
-    <content type="html"><![CDATA[<h2>testsfsadfhajsdfjsadfjsadjfh萨hdfj啊sgdjfh干啊sjhdg发生过渡房gsjhdfgjsahgdfjgsadfgsahdgfjhsagdfhsgdfj萨gdh法 testsfsadfhajsdfjsadfjsadjfh萨hdfj啊sgdjfh干啊sjhdg发生过渡房gsjhdfgjsahgdfjgsadfgsahdgfjhsagdfhsgdfj萨gdh法</h2>
-
-<!-- more -->
-
-
-<p>testsfsadfhajsdfjsadfjsadjfh萨hdfj啊sgdjfh干啊sjhdg发生过渡房gsjhdfgjsahgdfjgsadfgsahdgfjhsagdfhsgdfj萨gdh法</p>
-
-<h2>testsfsadfhajsdfjsadfjsadjfh萨hdfj啊sgdjfh干啊sjhdg发生过渡房gsjhdfgjsahgdfjgsadfgsahdgfjhsagdfhsgdfj萨gdh法</h2>
-
-<p>testsfsadfhajsdfjsadfjsadjfh萨hdfj啊sgdjfh干啊sjhdg发生过渡房gsjhdfgjsahgdfjgsadfgsahdgfjhsagdfhsgdfj萨gdh法</p>
-
-<h2>testsfsadfhajsdfjsadfjsadjfh萨hdfj啊sgdjfh干啊sjhdg发生过渡房gsjhdfgjsahgdfjgsadfgsahdgfjhsagdfhsgdfj萨gdh法</h2>
-
-<p>testsfsadfhajsdfjsadfjsadjfh萨hdfj啊sgdjfh干啊sjhdg发生过渡房gsjhdfgjsahgdfjgsadfgsahdgfjhsagdfhsgdfj萨gdh法
-testsfsadfhajsdfjsadfjsadjfh萨hdfj啊sgdjfh干啊sjhdg发生过渡房gsjhdfgjsahgdfjgsadfgsahdgfjhsagdfhsgdfj萨gdh法</p>
-]]></content>
-  </entry>
   
 </feed>
