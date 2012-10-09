@@ -137,7 +137,7 @@ module Jekyll
     # Returns string
     #
     def tag_links(tags)
-      dir = @context.registers[:site].config['tag_dir']
+	    dir = @context.registers[:site].config['tag_dir']
       tags = tags.sort!.map do |item|
         "<a class='tag' href='/#{dir}/#{item.gsub(/_|\P{Word}/, '-').gsub(/-{2,}/, '-').downcase}/'>#{item}</a>"
       end
