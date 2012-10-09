@@ -1,6 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://acheng.me/blog/2012/10/02/test02/</loc>
+        <lastmod>2012-10-02T16:51:14+08:00</lastmod>
+    </url>
+    <url>
         <loc>http://acheng.me/blog/2012/10/09/nstableviewxing-de-tuo-zhuai/</loc>
         <lastmod>2012-10-09T21:32:21+08:00</lastmod>
     </url>
