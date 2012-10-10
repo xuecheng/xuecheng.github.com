@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[博文分类:Cocoa(OSX)笔记 | ACHENG.me]]></title>
+  <title><![CDATA[博文分类:Cocoa(OSX)笔记 | Cocoa(OSX)开发区]]></title>
   <link href="http://acheng.me/blog/categories/cocoa-osx-笔记/atom.xml" rel="self"/>
   <link href="http://acheng.me/"/>
-  <updated>2012-10-09T22:27:30+08:00</updated>
+  <updated>2012-10-10T21:48:48+08:00</updated>
   <id>http://acheng.me/</id>
   <author>
     <name><![CDATA[ACHENG]]></name>
