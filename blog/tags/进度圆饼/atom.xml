@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[标签:进度圆饼 | Cocoa(OSX)开发区]]></title>
+  <link href="http://acheng.me/blog/tags/进度圆饼/atom.xml" rel="self"/>
+  <link href="http://acheng.me/"/>
+  <updated>2012-10-21T00:18:35+08:00</updated>
+  <id>http://acheng.me/</id>
+  <author>
+    <name><![CDATA[ACHENG]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[类似chrome在dock图标上添加任务进度圆饼]]></title>
+    <link href="http://acheng.me/blog/2012/10/21/dockicondemo/"/>
+    <updated>2012-10-21T00:05:00+08:00</updated>
+    <id>http://acheng.me/blog/2012/10/21/dockicondemo</id>
+    <content type="html"><![CDATA[<h2>类似chrome在dock图标上添加任务进度圆饼</h2>
+
+<h3><a href="https://github.com/xuecheng/osx_dockicondemo">源码下载地址</a></h3>
+]]></content>
+  </entry>
+  
+</feed>
