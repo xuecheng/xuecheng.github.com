@@ -4,7 +4,7 @@
   <title><![CDATA[标签:NSTableView | Cocoa(OSX)开发区]]></title>
   <link href="http://acheng.me/blog/tags/nstableview/atom.xml" rel="self"/>
   <link href="http://acheng.me/"/>
-  <updated>2012-10-21T00:18:35+08:00</updated>
+  <updated>2012-10-21T00:25:02+08:00</updated>
   <id>http://acheng.me/</id>
   <author>
     <name><![CDATA[ACHENG]]></name>
@@ -31,7 +31,7 @@
 
 <p>先把demo的下载地址给贴上，等星期六天再把这篇博文写完。</p>
 
-<p><a href="https://github.com/xuecheng/osx_dragtablecelldemo">NSTableView行的拖拽Demo</a></p>
+<p><a href="https://github.com/xuecheng/osx_dragtablecelldemo">源码下载地址</a></p>
 ]]></content>
   </entry>
   
