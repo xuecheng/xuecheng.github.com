@@ -4,7 +4,7 @@
   <title><![CDATA[标签:NSTableView | Cocoa(OSX)开发区]]></title>
   <link href="http://acheng.me/blog/tags/nstableview/atom.xml" rel="self"/>
   <link href="http://acheng.me/"/>
-  <updated>2012-10-21T00:25:02+08:00</updated>
+  <updated>2012-10-21T12:04:05+08:00</updated>
   <id>http://acheng.me/</id>
   <author>
     <name><![CDATA[ACHENG]]></name>
@@ -22,14 +22,12 @@
 
 <p>今天这篇博文主要讲如何任意拖拽NSTableView的Row。</p>
 
+<p><img src="http://acheng.me/images/blog/nstableviewhangdetuozhuai_1.png" alt="image1" /></p>
+
 <!-- more -->
 
 
-<p>不废话，让我们先来看一下效果图：</p>
-
-<p><img src="http://acheng.me/images/blog/nstableviewhangdetuozhuai_1.png" alt="image1" /></p>
-
-<p>先把demo的下载地址给贴上，等星期六天再把这篇博文写完。</p>
+<p>例子其实很简单，这里贴上源码，如果有不懂的，可以给我留言，或关注我的新浪微博 <a href="http://weibo.com/chenghxc">@chenghxc</a></p>
 
 <p><a href="https://github.com/xuecheng/osx_dragtablecelldemo">源码下载地址</a></p>
 ]]></content>
