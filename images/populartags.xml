@@ -1,16 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PopularTags>
+	
+	 <APNS>
+	 <OpenAPNS>NO<OpenAPNS>
+	 <PushURL>iNcdQeECYusS79DNxYexXQ==</PushURL>
+	 </APNS>
 	 
 	 <PopularTag>
 	 <Tag>gif</Tag>
 	 <SubTag>动画</SubTag>
-<CTR>0</CTR>
+     <CTR>0</CTR>
+	 </PopularTag>
+	 
+	 <PopularTag>
+	 <Tag>游戏</Tag>
+	 <SubTag>动画</SubTag>
+     <CTR>0</CTR>
+	 </PopularTag>
+	 
+	 <PopularTag>
+	 <Tag>风景</Tag>
+	 <SubTag>动画</SubTag>
+     <CTR>0</CTR>
+	 </PopularTag>
+	 
+	 <PopularTag>
+	 <Tag>手机</Tag>
+	 <SubTag>动画</SubTag>
+     <CTR>0</CTR>
+	 </PopularTag>
+	 
+	 <PopularTag>
+	 <Tag>设计</Tag>
+	 <SubTag>动画</SubTag>
+     <CTR>0</CTR>
+	 </PopularTag>
+	 
+	 <PopularTag>
+	 <Tag>车</Tag>
+	 <SubTag>动画</SubTag>
+     <CTR>0</CTR>
 	 </PopularTag>
 	 
 	 <PopularTag>
 	 <Tag>旅游</Tag>
 	 <SubTag>照相q,e,ererer</SubTag>
-<CTR>0</CTR>
+     <CTR>0</CTR>
 	 </PopularTag>
 	 
 </PopularTags>
