@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[标签:DockIcon | Cocoa(OSX)开发区]]></title>
-  <link href="http://acheng.me/blog/tags/dockicon/atom.xml" rel="self"/>
-  <link href="http://acheng.me/"/>
-  <updated>2012-12-20T23:24:41+08:00</updated>
-  <id>http://acheng.me/</id>
+  <link href="http://acheng.me/blog/about/blog/tags/dockicon/atom.xml" rel="self"/>
+  <link href="http://acheng.me/blog/about/"/>
+  <updated>2012-12-29T15:34:09+08:00</updated>
+  <id>http://acheng.me/blog/about/</id>
   <author>
     <name><![CDATA[ACHENG]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[类似chrome在dock图标上添加任务进度圆饼]]></title>
-    <link href="http://acheng.me/blog/2012/10/21/dockicondemo/"/>
+    <link href="http://acheng.me/blog/about/blog/2012/10/21/dockicondemo/"/>
     <updated>2012-10-21T00:05:00+08:00</updated>
-    <id>http://acheng.me/blog/2012/10/21/dockicondemo</id>
+    <id>http://acheng.me/blog/about/blog/2012/10/21/dockicondemo</id>
     <content type="html"><![CDATA[<p>最近项目需要实现类似chrome的下载圆饼效果，自己用qt纯代码画了一个。</p>
 
 <p><img src="http://acheng.me/images/blog/dockicondemo_1.png" alt="image1" /></p>
