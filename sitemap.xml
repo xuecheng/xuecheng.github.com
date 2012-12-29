@@ -1,35 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://acheng.me/blog/about/blog/2012/10/09/nstableviewxing-de-tuo-zhuai/</loc>
+        <loc>http://xuecheng.github.com/blog/2012/10/09/nstableviewxing-de-tuo-zhuai/</loc>
         <lastmod>2012-10-21T12:17:03+08:00</lastmod>
     </url>
     <url>
-        <loc>http://acheng.me/blog/about/blog/2012/10/21/dockicondemo/</loc>
+        <loc>http://xuecheng.github.com/blog/2012/10/21/dockicondemo/</loc>
         <lastmod>2012-10-21T12:16:37+08:00</lastmod>
     </url>
     <url>
-        <loc>http://acheng.me/blog/about/blog/about/</loc>
+        <loc>http://xuecheng.github.com/blog/about/</loc>
         <lastmod>2012-10-11T23:20:53+08:00</lastmod>
     </url>
     <url>
-        <loc>http://acheng.me/blog/about/blog/archives/</loc>
+        <loc>http://xuecheng.github.com/blog/archives/</loc>
         <lastmod>2012-10-21T12:17:03+08:00</lastmod>
     </url>
     <url>
-        <loc>http://acheng.me/blog/about/blog/code/</loc>
+        <loc>http://xuecheng.github.com/blog/code/</loc>
         <lastmod>2012-10-20T23:48:50+08:00</lastmod>
     </url>
     <url>
-        <loc>http://acheng.me/blog/about/blog/tags/</loc>
+        <loc>http://xuecheng.github.com/blog/tags/</loc>
         <lastmod>2012-10-04T22:46:53+08:00</lastmod>
     </url>
     <url>
-        <loc>http://acheng.me/blog/about/blog/tags/tags.html</loc>
+        <loc>http://xuecheng.github.com/blog/tags/tags.html</loc>
         <lastmod>2012-10-04T03:59:28+08:00</lastmod>
     </url>
     <url>
-        <loc>http://acheng.me/blog/about/</loc>
+        <loc>http://xuecheng.github.com/</loc>
         <lastmod>2012-10-21T12:17:03+08:00</lastmod>
     </url>
 </urlset>
